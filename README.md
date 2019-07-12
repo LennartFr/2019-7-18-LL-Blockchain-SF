@@ -42,13 +42,13 @@ It is all about business networks and shared ledgers
   
 <img src="https://farm5.staticflickr.com/4503/37148677233_71edc5a37b_o.png" width="1041" height="53" alt="blueband">
 
-# Learning Objective 2: On your laptop: installing the IBM Visual Studio Code with IBP plugin and cresting the MVP
+# Learning Objective 2: IBM Visual Studio Code with IBP plugin and creating your MVP
 
 <img src="VSC_BC.png">
 
-### [Visual Studio Code](https://code.visualstudio.com)
+### [Installing Visual Studio Code](https://code.visualstudio.com)
 
-### [https://marketplace.visualstudio.com/items?itemName=IBMBlockchain.ibm-blockchain-platform](https://marketplace.visualstudio.com/items?itemName=IBMBlockchain.ibm-blockchain-platform)
+### [Installing IBM Blockchain Platform Plugin in Visual Studio Code     ](https://marketplace.visualstudio.com/items?itemName=IBMBlockchain.ibm-blockchain-platform)
 
 <img src="architecture.png">
 
