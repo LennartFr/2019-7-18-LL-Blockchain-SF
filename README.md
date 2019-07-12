@@ -50,8 +50,6 @@ It is all about business networks and shared ledgers
 
 ### [Installing IBM Blockchain Platform Plugin in Visual Studio Code     ](https://marketplace.visualstudio.com/items?itemName=IBMBlockchain.ibm-blockchain-platform)
 
-<img src="architecture.png">
-
 [An introduction to programming Hyperledger Fabric on SlideShare](https://www.slideshare.net/LennartF/ibp-technical-introduction)
 
 [IBM Blockchain Platform on SlideShare](https://www.slideshare.net/LennartF/ibm-blockchain-platform-explained-149106072)
@@ -59,8 +57,6 @@ It is all about business networks and shared ledgers
 [IBM Blockchain Solutions on SlideShare](https://www.slideshare.net/LennartF/ibm-blockchain-solutions-149098151)
 
 <img src="https://farm5.staticflickr.com/4503/37148677233_71edc5a37b_o.png" width="1041" height="53" alt="blueband">
-
-# Learning Objective 3: Developing smart contracts with Visual Studio Code extension 
 
 [Complete instructions: Install IBM Blockchain Platform VS Code extension for free](https://cloud.ibm.com/docs/services/blockchain?topic=blockchain-develop-vscode#develop-vscode-install)
 
@@ -71,8 +67,8 @@ Follow the typical workflow from generating a new smart contract project, deploy
 <img src="VSCODE_TUT1.PNG" width="300" height="500">
  
 <img src="https://farm5.staticflickr.com/4503/37148677233_71edc5a37b_o.png" width="1041" height="53" alt="blueband">
-
-# Learning Objective 4: How to launch the brand new IBM Blockchain Platform 2.0 in the IBM Cloud
+ 
+# Learning Objective 3: How to launch the brand new IBM Blockchain Platform 2.0 in the IBM Cloud
 
 ### Free IBM Cloud sign-up link: [https://ibm.biz/BdzMtC](https://ibm.biz/BdzMtC)
 
