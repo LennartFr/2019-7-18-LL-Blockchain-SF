@@ -28,13 +28,15 @@
 
 # Learning Objective 1: How do we get started?
 
-[IBM Garage Methodology](https://www.ibm.com/cloud/garage/method)
+[IBM Garage Method](https://www.ibm.com/cloud/garage/method)
 
 ### Knowing who we are
-### The IBM garage methodology
-### Usecases or how do we start?
+### The IBM Garage methodology
+### [Use Cases](https://www.ibm.com/blockchain/use-cases/] or how do we start?
 ### Into the world of architecture
-###  Defining and implementing our Minimum Viable Product   
+### It is all about data: on-chain and off-chain
+### Defining and implementing our Minimum Viable Product
+### And let's not forget security and cryptography 
 
 ## [Blockchain for trusted transactions](https://www.ibm.com/cloud/garage/architectures/blockchainArchitecture/reference-architecture)
 
