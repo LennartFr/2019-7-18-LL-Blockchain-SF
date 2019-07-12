@@ -2,6 +2,8 @@
 
 # Event URL: [https://bit.ly/2LR2WP0](https://bit.ly/2LR2WP0)
 
+<span style="font-family:Papyrus; font-size:40em;">LOVE!</span>
+
 # An introduction to the IBM Blockchain Platform 2.0!
 
 Contacts:
