@@ -33,8 +33,8 @@
 ### [IBM Garage: Blockchain for trusted transactions](https://www.ibm.com/cloud/garage/architectures/blockchainArchitecture/reference-architecture)
 ### [Use Cases](https://www.ibm.com/blockchain/use-cases/) or how do we start?
 ### Into the world of architecture
-### It is all about data: on-chain and off-chain
-### Defining and implementing our Minimum Viable Product
+### It is all about data: <a href="https://developer.ibm.com/articles/cl-extend-blockchain-smart-contracts-trusted-oracle/on-chain"> on-chain, off-chain and oracles</a>
+### Agile and defining and implementing our Minimum Viable Product
 ### And if you don't deploy in the cloud your friends will laugh at you.
 ### Let's not forget security and cryptography 
 
