@@ -26,18 +26,17 @@
 
 # Learning Objective 1: How do we get started?
 
-### Knowing who we are (developers, business people...) 
+### Knowing who we are (developers, business people, entrepreneurs ..) 
 
 <img src="Garage.png">
 
 ### [IBM Garage Method](https://www.ibm.com/cloud/garage/method)
 ### [IBM Garage: Blockchain for trusted transactions](https://www.ibm.com/cloud/garage/architectures/blockchainArchitecture/reference-architecture)
 ### [Use Cases](https://www.ibm.com/blockchain/use-cases/) or how do we start?
-### Into the world of architecture
+### Into the world of architecture: Cloud, security <a href="https://www.ibm.com/support/knowledgecenter/en/SSBS6K_3.1.0/featured_applications/ibm_blockchain_platform.html">IBM Blockchain Platform for IBM Cloud Private</a>
 ### It is all about data: <a href="https://developer.ibm.com/articles/cl-extend-blockchain-smart-contracts-trusted-oracle/on-chain"> on-chain, off-chain and oracles</a>
 ### Agile and defining and implementing our Minimum Viable Product
 ### And if you don't deploy in the cloud your friends will laugh at you.
-### Let's not forget security and cryptography 
 
 It is all about business networks and shared ledgers
   
