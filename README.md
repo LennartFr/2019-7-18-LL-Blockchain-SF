@@ -26,7 +26,7 @@
 
 # Learning Objective 1: How do we get started?
 
-### Knowing who we are
+### Knowing who we are (developers, business people...) 
 
 <img src="Garage.png">
 
