@@ -16,7 +16,7 @@
 
 1. How do we get started?
  
-1. On your laptop: how to install the Visual Studio Code with the IBM Blockchain Platform plugin
+1. IBM Visual Studio Code with IBP plugin and creating your MVP
 
 1. How to create your first Smart Contract with Visual Studio Code
 
