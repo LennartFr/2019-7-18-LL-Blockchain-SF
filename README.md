@@ -16,11 +16,9 @@
 
 1. How do we get started?
  
-1. IBM Visual Studio Code with IBP plugin and creating your MVP
+1. Visual Studio Code with the IBM plugin and creating your MVP
 
-1. How to create your first Smart Contract with Visual Studio Code
-
-1. How to launch the brand new <a href="https://ibm.biz/Bdzmec">IBM Blockchain Platform 2.0 </a> in the IBM Cloud
+1. How do deploy your MVP in the <a href="https://ibm.biz/Bdzmec">IBM Cloud </a> 
 
 <img src="https://farm5.staticflickr.com/4503/37148677233_71edc5a37b_o.png" width="1041" height="53" alt="blueband">
 
