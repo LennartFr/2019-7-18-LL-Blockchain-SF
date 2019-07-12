@@ -59,8 +59,6 @@ It is all about business networks and shared ledgers
 Go through Tutorial One in VS Code: Local Smart Contract Development.
 
 Follow the typical workflow from generating a new smart contract project, deploying code to the <i>local_fabric_runtime</i> and testing your transactions via an application gateway</i> 
-
-<img align="left", src="VSCODE_TUT1.PNG"> width="150" height="250">
  
 <img src="https://farm5.staticflickr.com/4503/37148677233_71edc5a37b_o.png" width="1041" height="53" alt="blueband">
  
