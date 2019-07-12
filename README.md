@@ -151,7 +151,7 @@ export class MyAssetContract extends Contract {
         myAsset.value = newValue;
         const buffer = Buffer.from(JSON.stringify(myAsset));
         await ctx.stub.putState(myAssetId, buffer);
-    }
+    } 
 
     @Transaction()
     public async deleteMyAsset(ctx: Context, myAssetId: string): Promise<void> {
