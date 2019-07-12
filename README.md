@@ -5,7 +5,7 @@
 
 # An introduction to the IBM Blockchain Platform 2.0!
 
-Contacts:
+## Contacts:
 
 ### Linkedin.com/in/lennartfrantzell/
 ### Linkedin.com/in/drnugent/
