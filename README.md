@@ -13,7 +13,7 @@ Contacts:
 
 # Learning Objectives:
 
-1. Introduction
+1. How do we start?
 
 1. On your laptop: how to install the Visual Studio Code with the IBM Blockchain Platform plugin
 
@@ -23,15 +23,12 @@ Contacts:
 
 <img src="https://farm5.staticflickr.com/4503/37148677233_71edc5a37b_o.png" width="1041" height="53" alt="blueband">
 
-# Learning Objective 1: Introduction
+# Learning Objective 1: How do we start?
 
-It all started in October during the Global Financial Crisis in 2008 with Satoshi Nakamoto and his paper [BitCoin: A Peer-to-Peer Electronic Cash System](https://bitcoin.org/bitcoin.pdf) which addressed a key problem in electronic commerce:
-<p><i><b>
-A purely peer-to-peer version of electronic cash would allow online payments to be sent directly from one party to another without going through a financial institution. 
-<p> 
-Digital signatures provide part of the solution, but the main benefits are lost if a trusted third party is still required to prevent double-spending. 
-<p>
-We propose a solution to the double-spending problem using a peer-to-peer network.</i></b> 
+## [Blockchain for trusted transactions](https://www.ibm.com/cloud/garage/architectures/blockchainArchitecture/reference-architecture)
+
+It is all about business networks and shared ledgers
+ 
 
 ## Let's start with Hyperledger:
 
