@@ -28,10 +28,8 @@
 
 # Learning Objective 1: How do we get started?
 
-[IBM Garage Method](https://www.ibm.com/cloud/garage/method)
-
 ### Knowing who we are
-### The IBM Garage methodology
+### [IBM Garage Method](https://www.ibm.com/cloud/garage/method)
 ### [Use Cases](https://www.ibm.com/blockchain/use-cases/) or how do we start?
 ### Into the world of architecture
 ### It is all about data: on-chain and off-chain
