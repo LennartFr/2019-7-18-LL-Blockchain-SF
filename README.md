@@ -27,7 +27,9 @@
 # Learning Objective 1: How do we get started?
 
 ### Knowing who we are
+
 <img src="Garage.png">
+
 ### [IBM Garage Method](https://www.ibm.com/cloud/garage/method)
 ### [IBM Garage: Blockchain for trusted transactions](https://www.ibm.com/cloud/garage/architectures/blockchainArchitecture/reference-architecture)
 ### [Use Cases](https://www.ibm.com/blockchain/use-cases/) or how do we start?
