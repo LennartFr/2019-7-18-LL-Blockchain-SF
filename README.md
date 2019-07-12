@@ -13,15 +13,11 @@ Contacts:
 <img src="https://farm5.staticflickr.com/4503/37148677233_71edc5a37b_o.png" width="1041" height="53" alt="blueband">
 
 # Learning Objectives:
+
 <img src="Garage.png">
 
-[IBM Garage Methodology](https://www.ibm.com/cloud/garage/method)
-
-1. Knowing who we are
-1. The IBM garage methodology
-1. Usecases or how do we start?
-1. Into the world of architecture
-1. Defining and implementing our Minimum Viable Product    
+1. How do we get started?
+ 
 1. On your laptop: how to install the Visual Studio Code with the IBM Blockchain Platform plugin
 
 1. How to create your first Smart Contract with Visual Studio Code
@@ -30,7 +26,15 @@ Contacts:
 
 <img src="https://farm5.staticflickr.com/4503/37148677233_71edc5a37b_o.png" width="1041" height="53" alt="blueband">
 
-# Learning Objective 1: How do we start?
+# Learning Objective 1: How do we get started?
+
+[IBM Garage Methodology](https://www.ibm.com/cloud/garage/method)
+
+### Knowing who we are
+### The IBM garage methodology
+### Usecases or how do we start?
+### Into the world of architecture
+###  Defining and implementing our Minimum Viable Product   
 
 ## [Blockchain for trusted transactions](https://www.ibm.com/cloud/garage/architectures/blockchainArchitecture/reference-architecture)
 
