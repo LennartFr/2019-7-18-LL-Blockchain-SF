@@ -30,14 +30,13 @@
 
 ### Knowing who we are
 ### [IBM Garage Method](https://www.ibm.com/cloud/garage/method)
+#### IBM Garage: Blockchain for trusted transactions](https://www.ibm.com/cloud/garage/architectures/blockchainArchitecture/reference-architecture)
 ### [Use Cases](https://www.ibm.com/blockchain/use-cases/) or how do we start?
 ### Into the world of architecture
 ### It is all about data: on-chain and off-chain
 ### Defining and implementing our Minimum Viable Product
 ### And if you don't deploy in the cloud your friends will laugh at you.
 ### Let's not forget security and cryptography 
-
-## [Blockchain for trusted transactions](https://www.ibm.com/cloud/garage/architectures/blockchainArchitecture/reference-architecture)
 
 It is all about business networks and shared ledgers
   
