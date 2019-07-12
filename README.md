@@ -13,6 +13,7 @@ Contacts:
 
 # Learning Objectives:
 <img src="Garage.png">
+
 [IBM Garage Methodology](https://www.ibm.com/cloud/garage/method)
 
 1. Knowing who we are
