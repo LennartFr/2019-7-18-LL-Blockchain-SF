@@ -69,75 +69,7 @@ Go through Tutorial One in VS Code: Local Smart Contract Development.
 Follow the typical workflow from generating a new smart contract project, deploying code to the <i>local_fabric_runtime</i> and testing your transactions via an application gateway</i> 
 
 <img src="VSCODE_TUT1.PNG" width="300" height="500">
-
-
-### my-asset-contract.ts
-~~~~
-
- * SPDX-License-Identifier: Apache-2.0
- */
-
-import { Context, Contract, Info, Returns, Transaction } from 'fabric-contract-api';
-import { MyAsset } from './my-asset';
-
-@Info({title: 'MyAssetContract', description: 'My Smart Contract' })
-export class MyAssetContract extends Contract {
-
-    @Transaction(false)
-    @Returns('boolean')
-    public async myAssetExists(ctx: Context, myAssetId: string): Promise<boolean> {
-        const buffer = await ctx.stub.getState(myAssetId);
-        return (!!buffer && buffer.length > 0);
-    }
-
-    @Transaction()
-    public async createMyAsset(ctx: Context, myAssetId: string, value: string): Promise<void> {
-        const exists = await this.myAssetExists(ctx, myAssetId);
-        if (exists) {
-            throw new Error(`The my asset ${myAssetId} already exists`);
-        }
-        const myAsset = new MyAsset();
-        myAsset.value = value;
-        const buffer = Buffer.from(JSON.stringify(myAsset));
-        await ctx.stub.putState(myAssetId, buffer);
-    }
-
-    @Transaction(false)
-    @Returns('MyAsset')
-    public async readMyAsset(ctx: Context, myAssetId: string): Promise<MyAsset> {
-        const exists = await this.myAssetExists(ctx, myAssetId);
-        if (!exists) {
-            throw new Error(`The my asset ${myAssetId} does not exist`);
-        }
-        const buffer = await ctx.stub.getState(myAssetId);
-        const myAsset = JSON.parse(buffer.toString()) as MyAsset;
-        return myAsset;
-    }
-
-    @Transaction()
-    public async updateMyAsset(ctx: Context, myAssetId: string, newValue: string): Promise<void> {
-        const exists = await this.myAssetExists(ctx, myAssetId);
-        if (!exists) {
-            throw new Error(`The my asset ${myAssetId} does not exist`);
-        }
-        const myAsset = new MyAsset();
-        myAsset.value = newValue;
-        const buffer = Buffer.from(JSON.stringify(myAsset));
-        await ctx.stub.putState(myAssetId, buffer);
-    } 
-
-    @Transaction()
-    public async deleteMyAsset(ctx: Context, myAssetId: string): Promise<void> {
-        const exists = await this.myAssetExists(ctx, myAssetId);
-        if (!exists) {
-            throw new Error(`The my asset ${myAssetId} does not exist`);
-        }
-        await ctx.stub.deleteState(myAssetId);
-    }
-
-}
-~~~~
-
+ 
 <img src="https://farm5.staticflickr.com/4503/37148677233_71edc5a37b_o.png" width="1041" height="53" alt="blueband">
 
 # Learning Objective 4: How to launch the brand new IBM Blockchain Platform 2.0 in the IBM Cloud
