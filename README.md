@@ -40,13 +40,13 @@ It is all about business networks and shared ledgers
   
 <img src="https://farm5.staticflickr.com/4503/37148677233_71edc5a37b_o.png" width="1041" height="53" alt="blueband">
 
-# Learning Objective 2: IBM Visual Studio Code with IBP plugin and creating your MVP
+# Learning Objective 2: IBM Visual Studio Code with IBM plugin and creating your MVP
 
 <img src="VSC_BC.png">
 
 ### [Installing Visual Studio Code](https://code.visualstudio.com)
 
-### [Installing IBM Blockchain Platform Plugin in Visual Studio Code     ](https://marketplace.visualstudio.com/items?itemName=IBMBlockchain.ibm-blockchain-platform)
+### [Installing IBM Blockchain Platform Plugin in Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=IBMBlockchain.ibm-blockchain-platform)
 
 [An introduction to programming Hyperledger Fabric on SlideShare](https://www.slideshare.net/LennartF/ibp-technical-introduction)
 
@@ -66,7 +66,7 @@ Follow the typical workflow from generating a new smart contract project, deploy
  
 <img src="https://farm5.staticflickr.com/4503/37148677233_71edc5a37b_o.png" width="1041" height="53" alt="blueband">
  
-# Learning Objective 3: How to launch the brand new IBM Blockchain Platform 2.0 in the IBM Cloud
+# Learning Objective 3: How do deploy your MVP in the <a href="https://ibm.biz/Bdzmec">IBM Cloud </a>
 
 ### Free IBM Cloud sign-up link: [https://ibm.biz/BdzMtC](https://ibm.biz/BdzMtC)
 
