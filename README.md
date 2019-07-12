@@ -13,8 +13,11 @@ Contacts:
 
 # Learning Objectives:
 
-1. How do we start?
-
+1. Knowing who we are
+1. The IBM garage methodology
+1. Usecases or how do we start?
+1. Into the world of architecture
+1. Defining and implementing our Minimum Viable Product    
 1. On your laptop: how to install the Visual Studio Code with the IBM Blockchain Platform plugin
 
 1. How to create your first Smart Contract with Visual Studio Code
