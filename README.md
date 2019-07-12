@@ -30,7 +30,7 @@
 
 ### Knowing who we are
 ### [IBM Garage Method](https://www.ibm.com/cloud/garage/method)
-#### IBM Garage: Blockchain for trusted transactions](https://www.ibm.com/cloud/garage/architectures/blockchainArchitecture/reference-architecture)
+#### [IBM Garage: Blockchain for trusted transactions (https://www.ibm.com/cloud/garage/architectures/blockchainArchitecture/reference-architecture)
 ### [Use Cases](https://www.ibm.com/blockchain/use-cases/) or how do we start?
 ### Into the world of architecture
 ### It is all about data: on-chain and off-chain
