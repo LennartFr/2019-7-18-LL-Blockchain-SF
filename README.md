@@ -1,8 +1,3 @@
-# 2019-7-18-LL-Blockchain-SF
-Introduction to Blockchain best practices and IBM Blockchain Platform 2.0
-
-Join IBM Developer SF in a delicious Lunch and Learn as we cover Blockchain architectural best practices, smart contracts, issues like GDPR, and how to store personal data on the Blockchain, on- and off-chain, security and encryption and performance, modeling Blockchain applications, and what areas might be ripe for Blockchain disruption -- all against the backdrop of IBM's Blockchain Platform and VS Code with the Blockchain Plugin!
-
 <img src="https://farm5.staticflickr.com/4503/37148677233_71edc5a37b_o.png" width="1041" height="53" alt="blueband">
 
 # Event URL: [https://bit.ly/2JisLG9](https://bit.ly/2JisLG9)
@@ -269,4 +264,3 @@ Mark Parzygnat.Program Director IBM Blockchain: https://twitter.com/meetmarkp?la
 ## Whitelisting
 
 [Whitelisting](https://cloud.ibm.com/registration/whitelist).
-
