@@ -40,32 +40,7 @@
 ## [Blockchain for trusted transactions](https://www.ibm.com/cloud/garage/architectures/blockchainArchitecture/reference-architecture)
 
 It is all about business networks and shared ledgers
- 
-
-## Let's start with Hyperledger:
-
-<img src= "Hyperledger.png" width="1000" height="500">
-
-1. #### [https://github.com/hyperledger/](https://github.com/hyperledger/)
-1. #### [Hyperledger Fabric Now Supports Ethereum](https://www.hyperledger.org/blog/2018/10/26/hyperledger-fabric-now-supports-ethereum)
-1. #### [Cargill Hyperledger Grid for Supply Chain solutions](https://www.hyperledger.org/projects/grid)
-1. #### [Hyperledger Caliper Benchmark tool](https://www.hyperledger.org/projects/caliper)
-1. #### [Hyperledger Quilt  offers interoperability between ledger systems by implementing the Interledger protocol ](https://www.hyperledger.org/projects/quilt)
-1. #### [Hyperledger URSA a shared cryptographic library](https://www.hyperledger.org/projects/ursa)
-
-### [Hyperledger Fabric 1.4.1](https://hyperledger-fabric.readthedocs.io/en/release-1.4/index.html)
-
-Enterprise grade permissioned distributed ledger platform that offers modularity and versatility for a broad set of industry use cases.
-
-1. [Hyperledger Fabric’s First long term support release](https://hyperledger-fabric.readthedocs.io/en/release-1.4/whatsnew.html#raft-ordering-service)
-
-1. [Raft ordering service](https://hyperledger-fabric.readthedocs.io/en/release-1.4/whatsnew.html#raft-ordering-service) 
-    Fault Tolerance consensus algorithm     
-
-[Blockchain Use Cases](https://www.ibm.com/blockchain/use-cases/)
-
-[IBM Blockchain Garage Services](https://www.ibm.com/blockchain/garage)
-
+  
 <img src="https://farm5.staticflickr.com/4503/37148677233_71edc5a37b_o.png" width="1041" height="53" alt="blueband">
 
 # Learning Objective 2: On your laptop: how to install the IBM Visual Studio Code with the brand new IBP plugin
@@ -269,6 +244,27 @@ Christian Cachin Swiss Cryptographer, Zurich. https://twitter.com/cczurich?lang=
 IBM Blockchain: https://twitter.com/ibmblockchain?lang=en
 
 Mark Parzygnat.Program Director IBM Blockchain: https://twitter.com/meetmarkp?lang=en
+
+## Let's start with Hyperledger:
+
+<img src= "Hyperledger.png" width="1000" height="500">
+
+1. #### [https://github.com/hyperledger/](https://github.com/hyperledger/)
+1. #### [Hyperledger Fabric Now Supports Ethereum](https://www.hyperledger.org/blog/2018/10/26/hyperledger-fabric-now-supports-ethereum)
+1. #### [Cargill Hyperledger Grid for Supply Chain solutions](https://www.hyperledger.org/projects/grid)
+1. #### [Hyperledger Caliper Benchmark tool](https://www.hyperledger.org/projects/caliper)
+1. #### [Hyperledger Quilt  offers interoperability between ledger systems by implementing the Interledger protocol ](https://www.hyperledger.org/projects/quilt)
+1. #### [Hyperledger URSA a shared cryptographic library](https://www.hyperledger.org/projects/ursa)
+
+### [Hyperledger Fabric 1.4.1](https://hyperledger-fabric.readthedocs.io/en/release-1.4/index.html)
+
+Enterprise grade permissioned distributed ledger platform that offers modularity and versatility for a broad set of industry use cases.
+
+1. [Hyperledger Fabric’s First long term support release](https://hyperledger-fabric.readthedocs.io/en/release-1.4/whatsnew.html#raft-ordering-service)
+
+1. [Raft ordering service](https://hyperledger-fabric.readthedocs.io/en/release-1.4/whatsnew.html#raft-ordering-service) 
+    Fault Tolerance consensus algorithm    
+
 
 ## Whitelisting
 
