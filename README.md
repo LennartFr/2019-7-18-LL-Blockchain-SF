@@ -43,7 +43,7 @@ It is all about business networks and shared ledgers
   
 <img src="https://farm5.staticflickr.com/4503/37148677233_71edc5a37b_o.png" width="1041" height="53" alt="blueband">
 
-# Learning Objective 2: On your laptop: how to install the IBM Visual Studio Code with the brand new IBP plugin
+# Learning Objective 2: On your laptop: installing the IBM Visual Studio Code with IBP plugin and cresting the MVP
 
 <img src="VSC_BC.png">
 
