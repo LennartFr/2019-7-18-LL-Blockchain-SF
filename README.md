@@ -42,7 +42,7 @@
 ### Create the data
 ### Create the Smart Contracts (Create, Query, Update)
 ### Create the Business Network
-### [Ivan Vankov: Main Three Components of Hyperledger Fabric: Fabric CA, Fabric Peer and Fabric orderer](https://www.youtube.com/watch?v=CsauV-9zHAk)
+### [Ivan Vankov: Main Three Components of Hyperledger Fabric: Fabric CA, Fabric Peer and Fabric Orderer](https://www.youtube.com/watch?v=CsauV-9zHAk)
 ~~~~
 hyperledger/fabric-ca                                                                                                                      
 hyperledger/fabric-tools                                                                                                           
