@@ -16,9 +16,9 @@
 
 1. How do we get started?
  
-1. Visual Studio Code with the IBM plugin and creating your MVP
+1. Visual Studio Code with the IBM plugin, creating our MVP
 
-1. How do deploy your MVP in the <a href="https://ibm.biz/Bdzmec">IBM Cloud </a> 
+1. How do we deploy our MVP in the <a href="https://ibm.biz/Bdzmec">IBM Cloud </a> 
 
 <img src="https://farm5.staticflickr.com/4503/37148677233_71edc5a37b_o.png" width="1041" height="53" alt="blueband">
 
@@ -62,7 +62,7 @@ It is all about business networks and shared ledgers
   
 <img src="https://farm5.staticflickr.com/4503/37148677233_71edc5a37b_o.png" width="1041" height="53" alt="blueband">
 
-# Learning Objective 2: IBM Visual Studio Code with IBM plugin and creating your MVP
+# Learning Objective 2: Visual Studio Code with the IBM plugin, creating our MVP
 
 <img src="VSC_BC.png">
 
@@ -84,7 +84,7 @@ Follow the typical workflow from generating a new smart contract project, deploy
  
 <img src="https://farm5.staticflickr.com/4503/37148677233_71edc5a37b_o.png" width="1041" height="53" alt="blueband">
  
-# Learning Objective 3: How do deploy your MVP in the <a href="https://ibm.biz/Bdzmec">IBM Cloud </a>
+# Learning Objective 3: How do we deploy our MVP in the <a href="https://ibm.biz/Bdzmec">IBM Cloud </a> 
 
 ### Free IBM Cloud sign-up link: [https://ibm.biz/BdzMtC](https://ibm.biz/BdzMtC)
 
