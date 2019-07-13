@@ -36,6 +36,7 @@
 ## Agile and defining and implementing our Minimum Viable Product
 ### Creating the actors 
 ### Creating the data
+### Creating the Smart Contracts
 ### Creating the Business Network 
 ### Creating the Ledger
 ## And if you don't deploy in the cloud your friends will laugh at you.
