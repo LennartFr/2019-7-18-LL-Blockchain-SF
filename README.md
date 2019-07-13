@@ -5,20 +5,20 @@
 
 # An introduction to the IBM Blockchain Platform 2.0!
 
-## Contacts:
+# Contacts:
 
-### Linkedin.com/in/lennartfrantzell/
-### Linkedin.com/in/drnugent/
+## Linkedin.com/in/lennartfrantzell/
+## Linkedin.com/in/drnugent/
  
 <img src="https://farm5.staticflickr.com/4503/37148677233_71edc5a37b_o.png" width="1041" height="53" alt="blueband">
 
 # Learning Objectives:
 
-## 1.How do we get started?
+## 1. How do we get started?
  
-## 1.Visual Studio Code with the IBM plugin, creating our MVP
+## 2. Visual Studio Code with the IBM plugin, creating our MVP
 
-## 1.How do we deploy our MVP in the <a href="https://ibm.biz/Bdzmec">IBM Cloud </a> 
+## 3 .How do we deploy our MVP in the <a href="https://ibm.biz/Bdzmec">IBM Cloud </a> 
 
 <img src="https://farm5.staticflickr.com/4503/37148677233_71edc5a37b_o.png" width="1041" height="53" alt="blueband">
 
@@ -27,7 +27,6 @@
 ## Knowing who we are (developers, business people, entrepreneurs ..) 
 ## Understand that Blockchain is an enterprise techology which deals with the operstion of business networks
 ## [Transparency from farm to cup](https://www.ibm.com/thought-leadership/blockchainbean/)
-
 
 <img src="Garage.png">
 
