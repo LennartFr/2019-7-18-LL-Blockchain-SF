@@ -25,6 +25,7 @@
 # Learning Objective 1: How do we get started?
 
 ## Knowing who we are (developers, business people, entrepreneurs ..) 
+## Understand that Blockchain is an enterprise techology which deals with the operstion of business networks
 
 <img src="Garage.png">
 
