@@ -31,7 +31,7 @@
 
 <img src="Garage.png">
 
-## Planning: [IBM Garage Method](https://www.ibm.com/cloud/garage/method) 
+## Planning: Agile and the [IBM Garage Method](https://www.ibm.com/cloud/garage/method) 
 ## [IBM Garage: Blockchain for trusted transactions](https://www.ibm.com/cloud/garage/architectures/blockchainArchitecture/reference-architecture)
 ## [Use Cases](https://www.ibm.com/blockchain/use-cases/) or how do we start?
 ## Into the world of architecture: Cloud, security <a href="https://www.ibm.com/support/knowledgecenter/en/SSBS6K_3.1.0/featured_applications/ibm_blockchain_platform.html">IBM Blockchain Platform for IBM Cloud Private</a>
