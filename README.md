@@ -35,8 +35,8 @@
 ## It is all about data: <a href="https://developer.ibm.com/articles/cl-extend-blockchain-smart-contracts-trusted-oracle/on-chain"> on-chain, off-chain and oracles</a>
 ## Agile and defining and implementing our Minimum Viable Product
 ### Creating the actors 
-### Creating the Data
-### Creating the Business Network with 
+### Creating the data
+### Creating the Business Network 
 ### Creating the Ledger
 ## And if you don't deploy in the cloud your friends will laugh at you.
 
