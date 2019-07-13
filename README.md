@@ -33,12 +33,12 @@
 ## [Use Cases](https://www.ibm.com/blockchain/use-cases/) or how do we start?
 ## Into the world of architecture: Cloud, security <a href="https://www.ibm.com/support/knowledgecenter/en/SSBS6K_3.1.0/featured_applications/ibm_blockchain_platform.html">IBM Blockchain Platform for IBM Cloud Private</a>
 ## It is all about data: <a href="https://developer.ibm.com/articles/cl-extend-blockchain-smart-contracts-trusted-oracle/on-chain"> on-chain, off-chain and oracles</a>
-## Agile and defining and implementing our Minimum Viable Product
-### Creating the actors 
-### Creating the data
-### Creating the Smart Contracts
-### Creating the Business Network 
-### Creating the Ledger
+## Agile and define and implement our Minimum Viable Product
+### Create the actors 
+### Create the data
+### Create the Smart Contracts (Create, Query, Update)
+### Create the Business Network 
+### Create the Ledger
 ## And if you don't deploy in the cloud your friends will laugh at you.
 
 It is all about business networks and shared ledgers
