@@ -43,6 +43,8 @@
 ### Create the Smart Contracts (Create, Query, Update)
 ### Create the Business Network
 
+<img src="brinkman.png">
+
 ~~~~
 hyperledger/fabric-ca                                                                                                                      
 hyperledger/fabric-tools                                                                                                           
