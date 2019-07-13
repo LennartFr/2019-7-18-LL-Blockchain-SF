@@ -44,11 +44,11 @@
 ### Create the Business Network
 ### [Ivan Vankov: Main Three Components of Hyperledger Fabric: Fabric CA, Fabric Peer and Fabric Orderer](https://www.youtube.com/watch?v=CsauV-9zHAk)
 ~~~~
-hyperledger/fabric-ca                                                                                                                      
+===> hyperledger/fabric-ca                                                                                                                      
 hyperledger/fabric-tools                                                                                                           
 hyperledger/fabric-ccenv                                                                                                               
-hyperledger/fabric-orderer                                                                                                         
-hyperledger/fabric-peer                                                                                                            
+===> hyperledger/fabric-orderer                                                                                                         
+===> hyperledger/fabric-peer                                                                                                            
 hyperledger/fabric-javaenv                                                                                                                          
 hyperledger/fabric-zookeeper                                                                                                        
 hyperledger/fabric-kafka                                                                                                           
