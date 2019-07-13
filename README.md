@@ -26,7 +26,7 @@
 
 ## Knowing who we are (developers, business people, entrepreneurs ..) 
 ## Who do we need to recruit for our team?
-## Understand that Blockchain is an enterprise techology which deals with the operation of ledgers and business network where architecture, security and cryptography play importat roles. 
+## Understand that Blockchain is an enterprise techology which deals with the operation of ledgers and business networks where architecture, security and cryptography play importat roles. 
 ## Lets take a look: [Transparency from farm to cup](https://www.ibm.com/thought-leadership/blockchainbean/)
 
 <img src="Garage.png">
