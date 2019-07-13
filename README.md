@@ -14,11 +14,11 @@
 
 # Learning Objectives:
 
-## 1. How do we get started?
+## 1.How do we get started?
  
-## 1. Visual Studio Code with the IBM plugin, creating our MVP
+## 1.Visual Studio Code with the IBM plugin, creating our MVP
 
-## 1. How do we deploy our MVP in the <a href="https://ibm.biz/Bdzmec">IBM Cloud </a> 
+## 1.How do we deploy our MVP in the <a href="https://ibm.biz/Bdzmec">IBM Cloud </a> 
 
 <img src="https://farm5.staticflickr.com/4503/37148677233_71edc5a37b_o.png" width="1041" height="53" alt="blueband">
 
