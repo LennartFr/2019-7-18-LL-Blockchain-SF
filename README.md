@@ -37,7 +37,24 @@
 ### Create the actors 
 ### Create the data
 ### Create the Smart Contracts (Create, Query, Update)
-### Create the Business Network 
+### Create the Business Network
+
+~~~~
+hyperledger/fabric-ca                                                                                                                      
+hyperledger/fabric-tools                                                                                                           
+hyperledger/fabric-ccenv                                                                                                               
+hyperledger/fabric-orderer                                                                                                         
+hyperledger/fabric-peer                                                                                                            
+hyperledger/fabric-javaenv                                                                                                                          
+hyperledger/fabric-zookeeper                                                                                                        
+hyperledger/fabric-kafka                                                                                                           
+hyperledger/fabric-couchdb                                                                                                         
+hyperledger/fabric-baseimage                                                                                                       
+hyperledger/fabric-javaenv                                                                                                           
+hyperledger/fabric-tools                                                                                                            
+hyperledger/fabric-baseos                                                                                                          
+~~~~
+
 ### Create the Ledger
 ## And if you don't deploy in the cloud your friends will laugh at you.
 
