@@ -43,8 +43,6 @@
 ### Create the Smart Contracts (Create, Query, Update)
 ### Create the Business Network
 
-<img src="brinkman.png">
-
 ~~~~
 hyperledger/fabric-ca                                                                                                                      
 hyperledger/fabric-tools                                                                                                           
@@ -60,6 +58,11 @@ hyperledger/fabric-javaenv
 hyperledger/fabric-tools                                                                                                            
 hyperledger/fabric-baseos                                                                                                          
 ~~~~
+
+### Create the architecture:
+
+<img src="brinkman.png">
+
 
 ### Create the Ledger
 ## And if you don't deploy in the cloud your friends will laugh at you.
