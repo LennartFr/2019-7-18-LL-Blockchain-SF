@@ -99,8 +99,6 @@ Follow the typical workflow from generating a new smart contract project, deploy
 
 <img src="login.png">
 
-[How to apply promocodes](https://www.slideshare.net/LennartF/pcode)
-
 ### IBM Cloud Catalog link: [https://cloud.ibm.com/catalog/](https://cloud.ibm.com/catalog)
 
 ### 1) Find IBM Blockchain Platform service in the IBM Cloud: [https://cloud.ibm.com/catalog?search=blockchain](https://cloud.ibm.com/catalog?search=blockchain). 
