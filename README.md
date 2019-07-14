@@ -65,7 +65,7 @@ hyperledger/fabric-baseos
 
 
 ### Create the Ledger
-## And if you don't deploy in the cloud your friends will laugh at you.
+### And deploy in the cloud.
 
 It is all about business networks and shared ledgers
   
