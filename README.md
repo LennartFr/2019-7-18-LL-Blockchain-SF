@@ -69,7 +69,15 @@ hyperledger/fabric-baseos
 
 ### [Phase two: Ordering and packaging transactions into blocks](https://hyperledger-fabric.readthedocs.io/en/release-1.4/orderer/ordering_service.html#phase-one-proposal)
 
-### [Phasee three: Validation and commit](https://hyperledger-fabric.readthedocs.io/en/release-1.4/orderer/ordering_service.html#phase-one-proposal)
+### [Phase three: Validation and commit](https://hyperledger-fabric.readthedocs.io/en/release-1.4/orderer/ordering_service.html#phase-one-proposal)
+
+### [Ordering service implementations](https://hyperledger-fabric.readthedocs.io/en/release-1.4/orderer/ordering_service.html#phase-one-proposal)
+
+## [Ordering service implementations](https://hyperledger-fabric.readthedocs.io/en/release-1.4/orderer/ordering_service.html#ordering-service-implementations)
+
+###[Solo](https://hyperledger-fabric.readthedocs.io/en/release-1.4/orderer/ordering_service.html#solo)
+###[Kafka](https://hyperledger-fabric.readthedocs.io/en/release-1.4/orderer/ordering_service.html#kafka)
+###[Raft](https://hyperledger-fabric.readthedocs.io/en/release-1.4/orderer/ordering_service.html#raft-concepts)
 
 ### Create the Ledger
 ### And deploy in the cloud.
