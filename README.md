@@ -63,6 +63,13 @@ hyperledger/fabric-baseos
 
 <img src="brinkman.png">
 
+## [Orderers and the transaction flow](https://hyperledger-fabric.readthedocs.io/en/release-1.4/orderer/ordering_service.html)
+
+### [Phase one: Proposal](https://hyperledger-fabric.readthedocs.io/en/release-1.4/orderer/ordering_service.html#phase-one-proposal)
+
+### [Phase two: Ordering and packaging transactions into blocks](https://hyperledger-fabric.readthedocs.io/en/release-1.4/orderer/ordering_service.html#phase-one-proposal)
+
+### [Phasee three: Validation and commit](https://hyperledger-fabric.readthedocs.io/en/release-1.4/orderer/ordering_service.html#phase-one-proposal)
 
 ### Create the Ledger
 ### And deploy in the cloud.
