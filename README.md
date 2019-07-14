@@ -93,9 +93,9 @@ Follow the typical workflow from generating a new smart contract project, deploy
  
 <img src="https://farm5.staticflickr.com/4503/37148677233_71edc5a37b_o.png" width="1041" height="53" alt="blueband">
  
-# Learning Objective 3: How do we deploy our MVP in the <a href="https://ibm.biz/Bdzmec">IBM Cloud </a> 
+# Learning Objective 3: How do we deploy our MVP in the IBM Cloud </a> 
 
-### Free IBM Cloud sign-up link: [https://ibm.biz/BdzMtC](https://ibm.biz/BdzMtC)
+### Free IBM Cloud sign-up link: [https://ibm.biz/BdzPVW](https://ibm.biz/BdzPVW)
 
 <img src="login.png">
 
