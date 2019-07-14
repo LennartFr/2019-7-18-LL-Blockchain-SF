@@ -110,6 +110,13 @@ Follow the typical workflow from generating a new smart contract project, deploy
  
 # Learning Objective 3: How do we deploy our MVP in the IBM Cloud </a> 
 
+### [About IBM Blockchain Platform for Multicloud](https://cloud.ibm.com/docs/services/blockchain?topic=blockchain-console-icp-about#console-icp-about-offers)
+
+### [What IBM Blockchain Platform for IBM Cloud Private offers](https://cloud.ibm.com/docs/services/blockchain?topic=blockchain-console-icp-about#console-icp-about-offers)
+
+You can use this offering to install the IBM Blockchain Platform console on a deployment of IBM Cloud Private. You can then use the console to create all of the fundamental components of a Hyperledger Fabric blockchain, a Certificate Authority, an ordering service, and peers, on your local cluster. For more information about the building blocks of Hyperledger Fabric networks, see the blockchain component overview. You can also use your console to operate a distributed multicloud network by importing nodes deployed on other IBM Cloud Private clusters or on IBM Cloud.
+
+
 ### Free IBM Cloud sign-up link: [https://ibm.biz/BdzPVW](https://ibm.biz/BdzPVW)
 
 <img src="login.png">
