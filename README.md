@@ -110,6 +110,8 @@ Follow the typical workflow from generating a new smart contract project, deploy
  
 # Learning Objective 3: How do we deploy our MVP in the IBM Cloud </a> 
 
+<img src="multicloud.png">
+
 ### [About IBM Blockchain Platform for Multicloud](https://cloud.ibm.com/docs/services/blockchain?topic=blockchain-console-icp-about#console-icp-about-offers)
 
 ### [What IBM Blockchain Platform for IBM Cloud Private offers](https://cloud.ibm.com/docs/services/blockchain?topic=blockchain-console-icp-about#console-icp-about-offers)
