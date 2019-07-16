@@ -23,9 +23,14 @@ Introducing IBM Blockchain World Wire, the new financial rail that simultaneousl
  
  
  
-Facebook Libra: [Libra White Paper](https://libra.org/en-US/white-paper/)
+## Facebook Libra: 
+[Libra White Paper](https://libra.org/en-US/white-paper/)
 
-Hyperledger FabCoin:
+## Hyperledger FabCoin:
+https://hyperledger-fabric.readthedocs.io/en/latest/token/FabToken.html
+Representing assets as tokens allows you to use the blockchain ledger to establish the unique state and ownership of an item, and transfer ownership using a consensus mechanism that is trusted by multiple parties. As long as the ledger is secure, the asset is immutable and cannot be transferred without the owners consent.
+
+Tokens can represent tangible assets, such as goods moving through a supply chain or a financial instrument being traded. Tokens can also represent intangible assets such as loyalty points. Because tokens cannot be transferred without the consent of the owner, and transactions are validated on a distributed ledger, representing assets as tokens allows you to reduce the risk and difficulty of transferring assets across multiple parties.  
 
 Hiding in section 5.1 is a most important paragraph in the recent Hyperledger Fabric paper. This describes FABCOIN now renamed to FABTOKEN which is a UTXO (Unspent Transaction Output) Token for Fabric. This little thing has 3 huge implications:-
 
