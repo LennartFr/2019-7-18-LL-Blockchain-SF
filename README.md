@@ -14,10 +14,14 @@ Digital signatures provide part of the solution, but the main benefits are lost 
 <p>
 We propose a solution to the double-spending problem using a peer-to-peer network.</i></b> 
  
+Since then Bitcoin anda Blockchain have inhabited two seperate worlds. 
+ 
+Until now...
+ 
 # News! 
  
 ## IBM World Wire:  
-https://www.ibm.com/blockchain/solutions/world-wire
+[IBM world wire](https://www.ibm.com/blockchain/solutions/world-wire)
 
 Introducing IBM Blockchain World Wire, the new financial rail that simultaneously clears and settles cross-border payments in near real-time. Integrating with your existing payment systems, you’ll replace costly opacity with affordable transparency – and that can bring greater financial opportunity to all.
  
