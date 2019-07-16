@@ -3,6 +3,30 @@
 
 # Event URL: [https://bit.ly/2LR2WP0](https://bit.ly/2LR2WP0)
 
+# News!
+
+It all started in October during the Global Financial Crisis in 2008 with Satoshi Nakamoto and his paper [BitCoin: A Peer-to-Peer Electronic Cash System](https://bitcoin.org/bitcoin.pdf) which addressed a key problem in electronic commerce:
+<p><i><b>
+A purely peer-to-peer version of electronic cash would allow online payments to be sent directly from one party to another without going through a financial institution. 
+<p> 
+Digital signatures provide part of the solution, but the main benefits are lost if a trusted third party is still required to prevent double-spending. 
+<p>
+We propose a solution to the double-spending problem using a peer-to-peer network.</i></b> 
+ 
+Facebook Libra: [Libra White Paper](https://libra.org/en-US/white-paper/)
+
+Hyperledger FabCoin:
+
+Hiding in section 5.1 is a most important paragraph in the recent Hyperledger Fabric paper. This describes FABCOIN now renamed to FABTOKEN which is a UTXO (Unspent Transaction Output) Token for Fabric. This little thing has 3 huge implications:-
+
+1.    Ethereum Interoperability – along with Hyperledger Burrow, Fabcoin will let Smart Contracts written for the Ethereum Virtual Machine run on Hyperledger Fabric.
+
+2.    Behavioural change – blockchain is best suited to driving large scale decentralised change on the micro or very small level. These little things – like Internet of Things interactions or writing a blog or picking up a piece of plastic rubbish – need new business models and new incentive models.   You can’t incentivise these changes in pounds, shillings and pence – you need a Token for that.  
+
+3.    Collapsing Supply Chains – smart contracts allow the elimination of Accounts Receivable and Payable. The end of “mirrored” transactions like purchase and sales orders, Purchase and Sales Invoices and Payments and Receipts. A token can be used like an intercompany transaction at the micro level with instant transfer of value financed in some way. The token can be linked to reputation services (to Tier 1, Tier 2 and Tier 3) with an end of cycle (once the end consumer pays) settlement in fiat cash. Additionally, new business models can be used to extend the token to change behaviour to support, for example a circular economy.   
+
+https://www.linkedin.com/pulse/token-hyperledger-fabric-andy-martin/
+
 # An introduction to the IBM Blockchain Platform 2.0!
 
 # Contacts:
