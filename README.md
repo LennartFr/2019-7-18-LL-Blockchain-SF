@@ -123,6 +123,8 @@ You can use this offering to install the IBM Blockchain Platform console on a de
 
 <img src="login.png">
 
+### [For instructions on how to apply the codes, review this page](https://cloud.ibm.com/docs/account?topic=account-codes#codes)
+
 ### IBM Cloud Catalog link: [https://cloud.ibm.com/catalog/](https://cloud.ibm.com/catalog)
 
 ### 1) Find IBM Blockchain Platform service in the IBM Cloud: [https://cloud.ibm.com/catalog?search=blockchain](https://cloud.ibm.com/catalog?search=blockchain). 
