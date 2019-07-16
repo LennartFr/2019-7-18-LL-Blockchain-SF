@@ -19,14 +19,12 @@ We propose a solution to the double-spending problem using a peer-to-peer networ
 ## IBM World Wire:  
 https://www.ibm.com/blockchain/solutions/world-wire
 
-Introducing IBM Blockchain World Wire, the new financial rail that simultaneously clears and settles cross-border payments in near real-time. Integrating with your existing payment systems, you’ll replace costly opacity with affordable transparency – and that can bring greater financial opportunity to all
- 
- 
+Introducing IBM Blockchain World Wire, the new financial rail that simultaneously clears and settles cross-border payments in near real-time. Integrating with your existing payment systems, you’ll replace costly opacity with affordable transparency – and that can bring greater financial opportunity to all.
  
 ## Facebook Libra: 
 [Libra White Paper](https://libra.org/en-US/white-paper/)
 
-## Hyperledger FabCoin:
+## Hyperledger FabToken:
 https://hyperledger-fabric.readthedocs.io/en/latest/token/FabToken.html
 Representing assets as tokens allows you to use the blockchain ledger to establish the unique state and ownership of an item, and transfer ownership using a consensus mechanism that is trusted by multiple parties. As long as the ledger is secure, the asset is immutable and cannot be transferred without the owners consent.
 
