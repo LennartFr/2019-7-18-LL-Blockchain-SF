@@ -16,6 +16,13 @@ We propose a solution to the double-spending problem using a peer-to-peer networ
  
 # News! 
  
+## IBM World Wire:  
+https://www.ibm.com/blockchain/solutions/world-wire
+
+Introducing IBM Blockchain World Wire, the new financial rail that simultaneously clears and settles cross-border payments in near real-time. Integrating with your existing payment systems, you’ll replace costly opacity with affordable transparency – and that can bring greater financial opportunity to all
+ 
+ 
+ 
 Facebook Libra: [Libra White Paper](https://libra.org/en-US/white-paper/)
 
 Hyperledger FabCoin:
