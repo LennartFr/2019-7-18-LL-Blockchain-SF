@@ -3,7 +3,8 @@
 
 # Event URL: [https://bit.ly/2LR2WP0](https://bit.ly/2LR2WP0)
 
-# News!
+
+# The Beginning.
 
 It all started in October during the Global Financial Crisis in 2008 with Satoshi Nakamoto and his paper [BitCoin: A Peer-to-Peer Electronic Cash System](https://bitcoin.org/bitcoin.pdf) which addressed a key problem in electronic commerce:
 <p><i><b>
@@ -12,6 +13,8 @@ A purely peer-to-peer version of electronic cash would allow online payments to 
 Digital signatures provide part of the solution, but the main benefits are lost if a trusted third party is still required to prevent double-spending. 
 <p>
 We propose a solution to the double-spending problem using a peer-to-peer network.</i></b> 
+ 
+# News! 
  
 Facebook Libra: [Libra White Paper](https://libra.org/en-US/white-paper/)
 
@@ -26,6 +29,31 @@ Hiding in section 5.1 is a most important paragraph in the recent Hyperledger Fa
 3.    Collapsing Supply Chains – smart contracts allow the elimination of Accounts Receivable and Payable. The end of “mirrored” transactions like purchase and sales orders, Purchase and Sales Invoices and Payments and Receipts. A token can be used like an intercompany transaction at the micro level with instant transfer of value financed in some way. The token can be linked to reputation services (to Tier 1, Tier 2 and Tier 3) with an end of cycle (once the end consumer pays) settlement in fiat cash. Additionally, new business models can be used to extend the token to change behaviour to support, for example a circular economy.   
 
 https://www.linkedin.com/pulse/token-hyperledger-fabric-andy-martin/
+
+
+IBM is taking its banking clients a step closer to cryptocurrency.
+
+Announced Monday, six international banks have signed letters of intent to issue stablecoins, or tokens backed by fiat currency, on World Wire, an IBM payment network that uses the Stellar public blockchain. The network promises to let regulated institutions move value across borders – remittances or foreign exchange – more quickly and cheaply than the legacy correspondent banking system.
+
+....
+
+The network went live Monday, although while the banks await their regulators’ blessings, the one stablecoin running on World Wire at the moment is a previously announced U.S. dollar-backed token created by Stronghold, a startup based in San Francisco. “We say ‘limited production,’” said Jesse Lund, IBM’s head of blockchain for financial services, of the project’s status.
+
+Indeed, while Stronghold’s USD-backed coin currently serves as an on-ramp for greenbacks, there are as yet no pay-in/pay-out locations in the U.S.  In this regard, IBM has received “a favorable verbal response” from U.S. regulators, said Lund.
+
+“So we are starting with markets that are outside of the U.S., but it won’t be long before we add U.S. as an operating endpoint. It will be sometime this year; we will get to it, third quarter, fourth quarter something like that,” he said.
+
+Still, the World Wire platform has payment locations in 72 countries, with 48 currencies and 46 “banking endpoints” (which include banks and money transmitters) where people can send or receive cash, said IBM.
+
+Aside from issuing their own tokens, the arrangement opens up the possibility of banks using lumens, the native token of the Stellar blockchain, which can be used as a “bridge currency” when it is hard to trade one type of fiat for another. Also, World Wire “could support other cryptos” but is only supporting lumens for the moment because financial institutions are put off by the volatility of cryptocurrencies, Lund said.
+
+However, as far as growing a bank-backed stablecoin universe is concerned, Lund has a grand vision. He told CoinDesk,
+
+“As more stablecoins come on board, the whole notion of FX changes over time. We are working very hard to expand the ecosystem of stablecoins that will include many more banks and many more fiat currencies – so digital representations of fiat currencies – and even, eventually, central bank issued digital currencies.”
+
+https://www.coindesk.com/ibm-signs-6-banks-to-issue-stablecoins-and-use-stellars-xlm-cryptocurrency
+
+
 
 # An introduction to the IBM Blockchain Platform 2.0!
 
