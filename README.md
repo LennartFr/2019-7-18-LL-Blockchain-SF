@@ -39,7 +39,9 @@ Until now...
 Built on the Stellar Protocol
 [IBM World Wire](https://www.ibm.com/blockchain/solutions/world-wire)
 
-Introducing IBM Blockchain World Wire, the new financial rail that simultaneously clears and settles cross-border payments in near real-time. Integrating with your existing payment systems, you’ll replace costly opacity with affordable transparency – and that can bring greater financial opportunity to all.### IBM is taking its banking clients a step closer to cryptocurrency.
+Introducing IBM Blockchain World Wire, the new financial rail that simultaneously clears and settles cross-border payments in near real-time. Integrating with your existing payment systems, you’ll replace costly opacity with affordable transparency – and that can bring greater financial opportunity to all.
+
+### IBM is taking its banking clients a step closer to cryptocurrency.
 
 Announced Monday, six international banks have signed letters of intent to issue stablecoins, or tokens backed by fiat currency, on World Wire, <b>an IBM payment network that uses the Stellar public blockchain.</b> The network promises to let regulated institutions move value across borders – remittances or foreign exchange – more quickly and cheaply than the legacy correspondent banking system.
 
