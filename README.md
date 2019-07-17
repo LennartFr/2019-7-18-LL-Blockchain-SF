@@ -39,7 +39,16 @@ Until now...
 Built on the Stellar Protocol
 [IBM World Wire](https://www.ibm.com/blockchain/solutions/world-wire)
 
-Introducing IBM Blockchain World Wire, the new financial rail that simultaneously clears and settles cross-border payments in near real-time. Integrating with your existing payment systems, you’ll replace costly opacity with affordable transparency – and that can bring greater financial opportunity to all.
+Introducing IBM Blockchain World Wire, the new financial rail that simultaneously clears and settles cross-border payments in near real-time. Integrating with your existing payment systems, you’ll replace costly opacity with affordable transparency – and that can bring greater financial opportunity to all.### IBM is taking its banking clients a step closer to cryptocurrency.
+
+Announced Monday, six international banks have signed letters of intent to issue stablecoins, or tokens backed by fiat currency, on World Wire, <b>an IBM payment network that uses the Stellar public blockchain.</b> The network promises to let regulated institutions move value across borders – remittances or foreign exchange – more quickly and cheaply than the legacy correspondent banking system.
+
+......
+
+Aside from issuing their own tokens, the arrangement opens up the possibility of banks using lumens, the native token of the Stellar blockchain, which can be used as a “bridge currency” when it is hard to trade one type of fiat for another. Also, World Wire “could support other cryptos” but is only supporting lumens for the moment because financial institutions are put off by the volatility of cryptocurrencies, Lund said....
+
+https://www.coindesk.com/ibm-signs-6-banks-to-issue-stablecoins-and-use-stellars-xlm-cryptocurrency
+ 
  
  ## Ripple cross-border payments.
  https://www.ripple.com
@@ -53,7 +62,7 @@ JPM Coin will function as a stablecoin, with fiat cash being deposited at the ba
 Initially linked to the U.S. dollar, the coin is expected to be extended to other fiat currencies in time. 
 https://www.coindesk.com/jpmorgan-to-start-customer-trials-of-its-jpm-coin-crypto   
    
-## Facebook Libra: 
+## Consumwe Space: Facebook Libra: 
 [Libra White Paper](https://libra.org/en-US/white-paper/)
 
 ## Hyperledger FabToken:
@@ -72,17 +81,7 @@ Hiding in section 5.1 is a most important paragraph in the recent Hyperledger Fa
 
 https://www.linkedin.com/pulse/token-hyperledger-fabric-andy-martin/
 
-### IBM is taking its banking clients a step closer to cryptocurrency.
 
-Announced Monday, six international banks have signed letters of intent to issue stablecoins, or tokens backed by fiat currency, on World Wire, <b>an IBM payment network that uses the Stellar public blockchain.</b> The network promises to let regulated institutions move value across borders – remittances or foreign exchange – more quickly and cheaply than the legacy correspondent banking system.
-
-....
-
-The network went live Monday, although while the banks await their regulators’ blessings, the one stablecoin running on World Wire at the moment is a previously announced U.S. dollar-backed token created by Stronghold, a startup based in San Francisco. “We say ‘limited production,’” said Jesse Lund, IBM’s head of blockchain for financial services, of the project’s status.
-......
-Aside from issuing their own tokens, the arrangement opens up the possibility of banks using lumens, the native token of the Stellar blockchain, which can be used as a “bridge currency” when it is hard to trade one type of fiat for another. Also, World Wire “could support other cryptos” but is only supporting lumens for the moment because financial institutions are put off by the volatility of cryptocurrencies, Lund said....
-
-https://www.coindesk.com/ibm-signs-6-banks-to-issue-stablecoins-and-use-stellars-xlm-cryptocurrency
 
 ## Non-Blockchain consumer alternatives: Venmo and Swedish Swish.
 
