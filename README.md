@@ -79,6 +79,10 @@ Aside from issuing their own tokens, the arrangement opens up the possibility of
 
 https://www.coindesk.com/ibm-signs-6-banks-to-issue-stablecoins-and-use-stellars-xlm-cryptocurrency
 
+## Non-Blockchain alternatives: Venmo and Swedish Swish.
+
+<img src="https://farm5.staticflickr.com/4503/37148677233_71edc5a37b_o.png" width="1041" height="53" alt="blueband">
+
 # Learning Objectives:
 
 ## 1. How do we get started?
@@ -86,8 +90,6 @@ https://www.coindesk.com/ibm-signs-6-banks-to-issue-stablecoins-and-use-stellars
 ## 2. Visual Studio Code with the IBM plugin, creating our MVP
 
 ## 3. How do we deploy our MVP in the <a href="https://ibm.biz/Bdzmec">IBM Cloud </a> 
-
-<img src="https://farm5.staticflickr.com/4503/37148677233_71edc5a37b_o.png" width="1041" height="53" alt="blueband">
 
 # Learning Objective 1: How do we get started?
 
