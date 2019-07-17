@@ -81,8 +81,6 @@ Hiding in section 5.1 is a most important paragraph in the recent Hyperledger Fa
 
 https://www.linkedin.com/pulse/token-hyperledger-fabric-andy-martin/
 
-
-
 ## Non-Blockchain consumer alternatives: Venmo and Swedish Swish.
 
 <img src="https://farm5.staticflickr.com/4503/37148677233_71edc5a37b_o.png" width="1041" height="53" alt="blueband">
@@ -99,6 +97,7 @@ https://www.linkedin.com/pulse/token-hyperledger-fabric-andy-martin/
 
 ## Knowing who we are (developers, business people, entrepreneurs ..) 
 ## Who do we need to recruit for our team? One architect, one business person, two developers, one operations person.
+## Knowing our domain.
 ## Understand that Blockchain is an enterprise techology that deals with the operation of ledgers and business networks where architecture, security and cryptography play importat roles. 
 ## Lets take a look: [Transparency from farm to cup](https://www.ibm.com/thought-leadership/blockchainbean/)
 
