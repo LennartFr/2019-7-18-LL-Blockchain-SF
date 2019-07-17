@@ -12,9 +12,6 @@
  
 <img src="https://farm5.staticflickr.com/4503/37148677233_71edc5a37b_o.png" width="1041" height="53" alt="blueband">
 
-
-
-
 # The Beginning.
 
 It all started in October during the Global Financial Crisis in 2008 with Satoshi Nakamoto and his paper [BitCoin: A Peer-to-Peer Electronic Cash System](https://bitcoin.org/bitcoin.pdf) which addressed a key problem in electronic commerce:
@@ -31,7 +28,7 @@ We propose a solution to the double-spending problem using a peer-to-peer networ
 https://www.linkedin.com/pulse/labor-day-tribute-bitcoin-other-cryptos-jesse-lund/
 
 
-Since then Bitcoin anda Blockchain have inhabited two seperate worlds. 
+Since then Bitcoin and Blockchain have inhabited two seperate worlds. 
  
 Until now...
  
