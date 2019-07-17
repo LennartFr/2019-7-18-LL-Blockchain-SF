@@ -34,13 +34,26 @@ Since then Bitcoin and Blockchain have inhabited two seperate worlds.
  
 Until now...
  
-# News! 
+# News: cross-border multi-currency payments and remittances! 
  
-## IBM World Wire:  
+## IBM Blockchain World Wire:  
+Built on the Stellar Protocol
 [IBM World Wire](https://www.ibm.com/blockchain/solutions/world-wire)
 
 Introducing IBM Blockchain World Wire, the new financial rail that simultaneously clears and settles cross-border payments in near real-time. Integrating with your existing payment systems, you’ll replace costly opacity with affordable transparency – and that can bring greater financial opportunity to all.
  
+ ## Ripple cross-border payments.
+ https://www.ripple.com
+ 
+## JPMorgan to Start Customer Trials of Its ‘JPM Coin’ Crypto   
+   
+ First revealed in February, JPM Coin initially runs on top of Quorum, a private version of ethereum developed by the bank.
+
+JPM Coin will function as a stablecoin, with fiat cash being deposited at the bank in exchange for the token, which can then be transferred via a permissioned distributed ledger. The recipient can later redeem the token for cash from JPMorgan.
+
+Initially linked to the U.S. dollar, the coin is expected to be extended to other fiat currencies in time. 
+https://www.coindesk.com/jpmorgan-to-start-customer-trials-of-its-jpm-coin-crypto   
+   
 ## Facebook Libra: 
 [Libra White Paper](https://libra.org/en-US/white-paper/)
 
@@ -60,7 +73,6 @@ Hiding in section 5.1 is a most important paragraph in the recent Hyperledger Fa
 
 https://www.linkedin.com/pulse/token-hyperledger-fabric-andy-martin/
 
-
 IBM is taking its banking clients a step closer to cryptocurrency.
 
 Announced Monday, six international banks have signed letters of intent to issue stablecoins, or tokens backed by fiat currency, on World Wire, an IBM payment network that uses the Stellar public blockchain. The network promises to let regulated institutions move value across borders – remittances or foreign exchange – more quickly and cheaply than the legacy correspondent banking system.
@@ -68,13 +80,7 @@ Announced Monday, six international banks have signed letters of intent to issue
 ....
 
 The network went live Monday, although while the banks await their regulators’ blessings, the one stablecoin running on World Wire at the moment is a previously announced U.S. dollar-backed token created by Stronghold, a startup based in San Francisco. “We say ‘limited production,’” said Jesse Lund, IBM’s head of blockchain for financial services, of the project’s status.
-
-Indeed, while Stronghold’s USD-backed coin currently serves as an on-ramp for greenbacks, there are as yet no pay-in/pay-out locations in the U.S.  In this regard, IBM has received “a favorable verbal response” from U.S. regulators, said Lund.
-
-“So we are starting with markets that are outside of the U.S., but it won’t be long before we add U.S. as an operating endpoint. It will be sometime this year; we will get to it, third quarter, fourth quarter something like that,” he said.
-
-Still, the World Wire platform has payment locations in 72 countries, with 48 currencies and 46 “banking endpoints” (which include banks and money transmitters) where people can send or receive cash, said IBM.
-
+......
 Aside from issuing their own tokens, the arrangement opens up the possibility of banks using lumens, the native token of the Stellar blockchain, which can be used as a “bridge currency” when it is hard to trade one type of fiat for another. Also, World Wire “could support other cryptos” but is only supporting lumens for the moment because financial institutions are put off by the volatility of cryptocurrencies, Lund said....
 
 https://www.coindesk.com/ibm-signs-6-banks-to-issue-stablecoins-and-use-stellars-xlm-cryptocurrency
