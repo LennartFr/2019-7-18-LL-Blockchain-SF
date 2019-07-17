@@ -64,7 +64,7 @@ JPM Coin will function as a stablecoin, with fiat cash being deposited at the ba
 Initially linked to the U.S. dollar, the coin is expected to be extended to other fiat currencies in time. 
 https://www.coindesk.com/jpmorgan-to-start-customer-trials-of-its-jpm-coin-crypto   
    
-## Consumwe Space: Facebook Libra: 
+## Consumer Space: Facebook Libra: 
 [Libra White Paper](https://libra.org/en-US/white-paper/)
 
 ## Hyperledger FabToken:
