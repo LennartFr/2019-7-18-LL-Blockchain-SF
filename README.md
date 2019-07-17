@@ -33,7 +33,7 @@ Since then Bitcoin and Blockchain have inhabited two seperate worlds.
 
 Until now...
  
-# News: cross-border multi-currency payments and remittances! 
+# Important Use Case: cross-border multi-currency payments and remittances! 
  
 ## IBM Blockchain World Wire:  
 Built on the Stellar Protocol
