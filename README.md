@@ -97,9 +97,8 @@ https://www.linkedin.com/pulse/token-hyperledger-fabric-andy-martin/
 
 # Learning Objective 1: How do we get started?
 
-## Knowing who we are (developers, business people, entrepreneurs ..) 
-## Who do we need to recruit for our team? One architect, one business person, two developers, one operations person.
 ## Knowing our domain.
+## Who do we need to recruit for our team? One architect, one business person, two developers, one operations person.
 ## Understand that Blockchain is an enterprise techology that deals with the operation of ledgers and business networks where architecture, security and cryptography play importat roles. 
 ## Lets take a look: [Transparency from farm to cup](https://www.ibm.com/thought-leadership/blockchainbean/)
 
