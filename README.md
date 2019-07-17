@@ -3,6 +3,18 @@
 
 # Event URL: [https://bit.ly/2LR2WP0](https://bit.ly/2LR2WP0)
 
+# An introduction to the IBM Blockchain Platform 2.0!
+
+# Contacts:
+
+## Linkedin.com/in/lennartfrantzell/
+## Linkedin.com/in/drnugent/
+ 
+<img src="https://farm5.staticflickr.com/4503/37148677233_71edc5a37b_o.png" width="1041" height="53" alt="blueband">
+
+
+
+
 # The Beginning.
 
 It all started in October during the Global Financial Crisis in 2008 with Satoshi Nakamoto and his paper [BitCoin: A Peer-to-Peer Electronic Cash System](https://bitcoin.org/bitcoin.pdf) which addressed a key problem in electronic commerce:
@@ -67,15 +79,6 @@ Still, the World Wire platform has payment locations in 72 countries, with 48 cu
 Aside from issuing their own tokens, the arrangement opens up the possibility of banks using lumens, the native token of the Stellar blockchain, which can be used as a “bridge currency” when it is hard to trade one type of fiat for another. Also, World Wire “could support other cryptos” but is only supporting lumens for the moment because financial institutions are put off by the volatility of cryptocurrencies, Lund said....
 
 https://www.coindesk.com/ibm-signs-6-banks-to-issue-stablecoins-and-use-stellars-xlm-cryptocurrency
-
-# An introduction to the IBM Blockchain Platform 2.0!
-
-# Contacts:
-
-## Linkedin.com/in/lennartfrantzell/
-## Linkedin.com/in/drnugent/
- 
-<img src="https://farm5.staticflickr.com/4503/37148677233_71edc5a37b_o.png" width="1041" height="53" alt="blueband">
 
 # Learning Objectives:
 
