@@ -67,8 +67,6 @@ However, as far as growing a bank-backed stablecoin universe is concerned, Lund 
 
 https://www.coindesk.com/ibm-signs-6-banks-to-issue-stablecoins-and-use-stellars-xlm-cryptocurrency
 
-
-
 # An introduction to the IBM Blockchain Platform 2.0!
 
 # Contacts:
@@ -178,7 +176,9 @@ Follow the typical workflow from generating a new smart contract project, deploy
 
 <img src="multicloud.png">
 <p>
+ 
 ## Global Hybridcloud deployment 
+
 <img src="ibparch.png">
 
 
