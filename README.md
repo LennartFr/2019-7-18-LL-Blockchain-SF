@@ -178,6 +178,7 @@ Follow the typical workflow from generating a new smart contract project, deploy
 
 <img src="multicloud.png">
 <p>
+## Global Hybridcloud deployment 
 <img src="ibparch.png">
 
 
