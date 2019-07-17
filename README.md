@@ -29,9 +29,8 @@ On 3 January 2009, the bitcoin network came into existence with Satoshi Nakamoto
 
 https://www.linkedin.com/pulse/labor-day-tribute-bitcoin-other-cryptos-jesse-lund/
 
-
 Since then Bitcoin and Blockchain have inhabited two seperate worlds. 
- 
+
 Until now...
  
 # News: cross-border multi-currency payments and remittances! 
@@ -73,9 +72,9 @@ Hiding in section 5.1 is a most important paragraph in the recent Hyperledger Fa
 
 https://www.linkedin.com/pulse/token-hyperledger-fabric-andy-martin/
 
-IBM is taking its banking clients a step closer to cryptocurrency.
+### IBM is taking its banking clients a step closer to cryptocurrency.
 
-Announced Monday, six international banks have signed letters of intent to issue stablecoins, or tokens backed by fiat currency, on World Wire, an IBM payment network that uses the Stellar public blockchain. The network promises to let regulated institutions move value across borders – remittances or foreign exchange – more quickly and cheaply than the legacy correspondent banking system.
+Announced Monday, six international banks have signed letters of intent to issue stablecoins, or tokens backed by fiat currency, on World Wire, <b>an IBM payment network that uses the Stellar public blockchain.</b> The network promises to let regulated institutions move value across borders – remittances or foreign exchange – more quickly and cheaply than the legacy correspondent banking system.
 
 ....
 
@@ -85,7 +84,7 @@ Aside from issuing their own tokens, the arrangement opens up the possibility of
 
 https://www.coindesk.com/ibm-signs-6-banks-to-issue-stablecoins-and-use-stellars-xlm-cryptocurrency
 
-## Non-Blockchain alternatives: Venmo and Swedish Swish.
+## Non-Blockchain consumer alternatives: Venmo and Swedish Swish.
 
 <img src="https://farm5.staticflickr.com/4503/37148677233_71edc5a37b_o.png" width="1041" height="53" alt="blueband">
 
