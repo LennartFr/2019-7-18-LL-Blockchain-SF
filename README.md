@@ -3,7 +3,6 @@
 
 # Event URL: [https://bit.ly/2LR2WP0](https://bit.ly/2LR2WP0)
 
-
 # The Beginning.
 
 It all started in October during the Global Financial Crisis in 2008 with Satoshi Nakamoto and his paper [BitCoin: A Peer-to-Peer Electronic Cash System](https://bitcoin.org/bitcoin.pdf) which addressed a key problem in electronic commerce:
@@ -13,7 +12,7 @@ A purely peer-to-peer version of electronic cash would allow online payments to 
 Digital signatures provide part of the solution, but the main benefits are lost if a trusted third party is still required to prevent double-spending. 
 <p>
 We propose a solution to the double-spending problem using a peer-to-peer network.</i></b> 
- 
+<hr>
 Since then Bitcoin anda Blockchain have inhabited two seperate worlds. 
  
 Until now...
@@ -59,11 +58,7 @@ Indeed, while Stronghold’s USD-backed coin currently serves as an on-ramp for 
 
 Still, the World Wire platform has payment locations in 72 countries, with 48 currencies and 46 “banking endpoints” (which include banks and money transmitters) where people can send or receive cash, said IBM.
 
-Aside from issuing their own tokens, the arrangement opens up the possibility of banks using lumens, the native token of the Stellar blockchain, which can be used as a “bridge currency” when it is hard to trade one type of fiat for another. Also, World Wire “could support other cryptos” but is only supporting lumens for the moment because financial institutions are put off by the volatility of cryptocurrencies, Lund said.
-
-However, as far as growing a bank-backed stablecoin universe is concerned, Lund has a grand vision. He told CoinDesk,
-
-“As more stablecoins come on board, the whole notion of FX changes over time. We are working very hard to expand the ecosystem of stablecoins that will include many more banks and many more fiat currencies – so digital representations of fiat currencies – and even, eventually, central bank issued digital currencies.”
+Aside from issuing their own tokens, the arrangement opens up the possibility of banks using lumens, the native token of the Stellar blockchain, which can be used as a “bridge currency” when it is hard to trade one type of fiat for another. Also, World Wire “could support other cryptos” but is only supporting lumens for the moment because financial institutions are put off by the volatility of cryptocurrencies, Lund said....
 
 https://www.coindesk.com/ibm-signs-6-banks-to-issue-stablecoins-and-use-stellars-xlm-cryptocurrency
 
