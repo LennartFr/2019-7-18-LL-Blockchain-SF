@@ -27,7 +27,7 @@ On 3 January 2009, the bitcoin network came into existence with Satoshi Nakamoto
 
 https://www.linkedin.com/pulse/labor-day-tribute-bitcoin-other-cryptos-jesse-lund/
 
-Since then Bitcoin and Blockchain have inhabited two seperate worlds (Financial Use Cases vs Supply Chain and other use cases) 
+Since then Bitcoin and Blockchain have inhabited two seperate worlds (Financial Use Cases vs non-financial Use Cases such as Supply Chain etc) 
 
 Until now...
  
