@@ -25,8 +25,6 @@ We propose a solution to the double-spending problem using a peer-to-peer networ
 
 On 3 January 2009, the bitcoin network came into existence with Satoshi Nakamoto mining the genesis block of bitcoin (block number 0), which had a reward of 50 bitcoins.
 
-<i>“Bitcoin’s value is not caused by the work performed to create them. Bitcoin’s value comes from its value in actual use. That’s all. That’s why people are willing to expend resources to mine it. <b>Bitcoin made it possible to bundle up immutable information packets and transfer them peer-to-peer without an intermediary, on a geographically non-contiguous basis, within a censorship-resistant network while preserving an audit trail of ownership rights…</b> Is that valuable? Yes. It’s never before been possible in the history of the world.”</i>
-
 https://www.linkedin.com/pulse/labor-day-tribute-bitcoin-other-cryptos-jesse-lund/
 
 Since then Bitcoin and Blockchain have inhabited two seperate worlds. 
