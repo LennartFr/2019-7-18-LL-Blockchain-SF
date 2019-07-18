@@ -42,6 +42,7 @@ Introducing IBM Blockchain World Wire, the new financial rail that simultaneousl
 ### IBM is taking its banking clients a step closer to cryptocurrency.
 
 March 18, 2019
+
 Announced Monday, six international banks have signed letters of intent to issue stablecoins, or tokens backed by fiat currency, on World Wire, <b>an IBM payment network that uses the Stellar public blockchain.</b> The network promises to let regulated institutions move value across borders – remittances or foreign exchange – more quickly and cheaply than the legacy correspondent banking system.
 
 ......
